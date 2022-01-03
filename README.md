@@ -1,4 +1,2 @@
 # rsschool-cv
-## hello my name is rus
-## hello!!!
-<a href='#'>#</a>
+<a href='https://dunrus.github.io/rsschool-cv/cv'>My CV</a>
