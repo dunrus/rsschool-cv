@@ -1,6 +1,6 @@
 Rus Dun<br>
 dun-rus@hotmail.com<br>
-discord rs school: dunrus<p>
+discord rs school: dunrus<br>
 
 Hey! I am very glad to study at RS School!<br>
 Experience with raster and vector editors, development of project layout design, html, css.<br>
