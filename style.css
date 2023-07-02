@@ -86,7 +86,7 @@ button:hover{
     align-content: space-around;
     justify-content: space-around;
     min-width: 400px;
-    background-color: #FAFAFA;
+    background-color: #FAFAFA; 
 }
 .logoText {
     margin-top: 24px;
